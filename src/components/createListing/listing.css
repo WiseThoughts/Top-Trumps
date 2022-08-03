@@ -1,0 +1,14 @@
+
+
+.breaker{
+    padding-top: 10px;
+}
+
+
+.profilePic{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}

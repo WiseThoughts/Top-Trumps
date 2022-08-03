@@ -1,0 +1,27 @@
+
+.postioning{
+    position: absolute;
+}
+
+.profilePic{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.ratingBox{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 5px;
+    color: white;
+}
+.ratingBox p {
+    flex-direction: column;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+
